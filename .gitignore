@@ -1,0 +1,11 @@
+.DS_Store
+
+# IDE
+.idea
+
+# tools
+*.save
+*.log
+*.tmp
+!*.ini.tmp
+
