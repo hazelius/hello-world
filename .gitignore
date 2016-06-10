@@ -5,7 +5,7 @@
 
 # tools
 *.save
-*.log
+#*.log
 *.tmp
 !*.ini.tmp
 
